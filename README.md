@@ -161,4 +161,4 @@ This is [an example](http://example.com/ "Title") inline link.
 [This link](http://example.net/) has no title attribute.
 
 
-See my [Syntax](syntax) page for details.
+See my [Syntax](./syntax.md) page for details.
