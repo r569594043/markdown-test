@@ -140,3 +140,15 @@ sit amet, consectetuer adipiscing elit.
     <div class="footer">
         &copy; 2004 Foo Corporation
     </div>
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+______
