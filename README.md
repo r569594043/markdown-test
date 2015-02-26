@@ -170,3 +170,19 @@ This is [an example] [id] reference-style link.
 
 
 [id]: http://example.com/  "Optional Title Here"
+
+
+[foo]: http://example.com/  "Optional Title Here"
+[foo]: http://example.com/  'Optional Title Here'
+[foo]: http://example.com/  (Optional Title Here)
+
+
+[id]: <http://example.com/>  "Optional Title Here"
+
+
+[id]: http://example.com/longish/path/to/resource/here
+    "Optional Title Here"
+
+
+[link text][a]
+[link text][A]
