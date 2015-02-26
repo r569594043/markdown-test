@@ -259,3 +259,8 @@ Please don't use any `<blink>` tags.
 
 
 <img src="https://www.baidu.com/img/bd_logo1.png" alt="Alt text" title="Optional title" width="300px" height="100px">
+
+
+<http://example.com/>
+
+<address@example.com>
