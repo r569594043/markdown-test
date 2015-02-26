@@ -246,3 +246,8 @@ Please don't use any `<blink>` tags.
 
 
 `&#8212;` is the decimal-encoded equivalent of `&mdash;`.
+
+
+![Alt text](https://www.baidu.com/img/bd_logo1.png)
+
+![Alt text](https://www.baidu.com/img/bd_logo1.png "Optional title")
