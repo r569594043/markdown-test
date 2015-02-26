@@ -251,3 +251,11 @@ Please don't use any `<blink>` tags.
 ![Alt text](https://www.baidu.com/img/bd_logo1.png)
 
 ![Alt text](https://www.baidu.com/img/bd_logo1.png "Optional title")
+
+![Alt text][img id]
+
+
+[img id]: https://www.baidu.com/img/bd_logo1.png  "Optional title attribute"
+
+
+<img src="https://www.baidu.com/img/bd_logo1.png" alt="Alt text" title="Optional title" width="300px" height="100px">
