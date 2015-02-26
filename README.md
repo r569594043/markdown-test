@@ -130,3 +130,13 @@ sit amet, consectetuer adipiscing elit.
 
 
 1986\. What a great season.
+
+这是一个普通段落：
+
+    这是一个代码区块。
+
+
+
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
