@@ -186,3 +186,13 @@ This is [an example] [id] reference-style link.
 
 [link text][a]
 [link text][A]
+
+
+[Google][]
+
+[Google]: http://google.com/
+
+Visit [Daring Fireball][] for more information.
+
+[Daring Fireball]: http://daringfireball.net/
+
