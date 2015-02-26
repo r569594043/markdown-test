@@ -264,3 +264,6 @@ Please don't use any `<blink>` tags.
 <http://example.com/>
 
 <address@example.com>
+
+
+\*literal asterisks\*
