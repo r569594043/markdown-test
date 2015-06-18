@@ -13426,7 +13426,7 @@ input.color-editor-input:focus ~ .label-colors {
 }
 
 .quick-issue-form {
-    position: relative
+    position: relative;
 }
 
 .quick-issue-form .suggestions {
